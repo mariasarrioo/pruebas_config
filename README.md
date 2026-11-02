@@ -1,2 +1,2 @@
 # pruebas_config
-Para probar los niveles de protección
+1,2,3,4,5
